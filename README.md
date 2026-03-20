@@ -1,6 +1,6 @@
 # AI Marketing Content Generator 
 ## Live Demo
-http://34.224.216.204/docs
+👉 [Click here to view the app](http://34.224.216.204/docs)
 
 This project is a FastAPI-based application that generates marketing content based on user inputs.
 
